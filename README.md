@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Gokul Senthilkumar
 #### MSc (Software Systems) Student
 
-<img align="right" width="400" height="300" src="https://github.com/dhanapalchand/dhanapalchand/assets/134786639/31c8c17f-81d7-49df-b11b-b5eda09818d9">
-
 Dynamic and innovative person in Full Stack Web Development, I possess a strong foundation in software systems and a passion for creating impactful digital solutions. With expertise in a wide range of knowledge programming languages and web frameworks, I have a comprehensive understanding of the basic web development lifecycle. Driven by a commitment to staying at the forefront of industry trends, I am dedicated to delivering high-quality projects within tight deadlines.
 
 - 🏌️Here's my [portfolio]()
