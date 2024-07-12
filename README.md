@@ -5,7 +5,7 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 
 Skills: C / JAVA / C# / MERN / MySQL
 
-- 🏌️Here's my [protfolio]()<br/>
+- 🏌️Here's my [portfolio]()<br/>
 - 👀 I’m interested in Full Stack development
 - 🔭 I’m currently working on MERN Stack  
 - 🌱 I’m currently learning Python, DSA and Spring Boot
