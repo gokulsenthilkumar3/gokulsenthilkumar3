@@ -58,16 +58,29 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 
 
 <br><br><br><br><br><br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3)
+<div style="display: flex; flex-direction: row;">
+    <!-- Column 1 -->
+    <div style="flex: 1; padding-right: 10px;">
+        <br><br><br><br><br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3" />
+        <br><br>
+    </div>
+    
+    <!-- Column 2 -->
+    <div style="flex: 1; padding-left: 10px;">
+        <p align="center">
+            <a href="https://github.com/srikumar03">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsenthilkumar3&theme=radical" />
+            </a>
+        </p>
+    </div>
+</div>
+
 <br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap)
 <br/><br/>
 
-<p align="center">
-  <a href="https://github.com/srikumar03">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsenthilkumar3&theme=radical" />
-  </a>
-</p>
+
 
 
 <!-- [![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=000000&color=47a948&line=38d652&point=f00505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
