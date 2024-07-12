@@ -65,16 +65,18 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3" />
         <br><br>
     </div>
-    
-    <!-- Column 2 -->
+        <!-- Column 2 -->
     <div style="flex: 1; padding-left: 10px;">
-        <p align="center">
-            <a href="https://github.com/srikumar03">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsenthilkumar3&theme=radical" />
-            </a>
-        </p>
+        <div style="flex: 1; padding-left: 10px;">
+            <p align="center">
+                <a href="https://github.com/gokulsenthilkumar3">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsenthilkumar3&theme=radical" />
+                </a>
+            </p>
+        </div>
     </div>
 </div>
+
 
 <br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap)
