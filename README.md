@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+I'm Gokul S. I am a Full Stack Web Developer in MERN and efficient in Java and C# programming.
 
 [![Gokul S](https://github-readme-stats.vercel.app/api?username=gokuls)](https://github.com/anuraghazra/github-readme-stats)
 <!--
