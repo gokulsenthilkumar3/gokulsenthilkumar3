@@ -60,14 +60,14 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 <br><br><br><br><br><br>
 <div style="display: flex; flex-direction: row;">
     <!-- Column 1 -->
-    <div style="flex: 1; padding-right: 10px;">
+    <div style="flex: 1; padding-right: 5px;">
         <br><br><br><br><br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3" />
         <br><br>
     </div>
         <!-- Column 2 -->
-    <div style="flex: 1; padding-left: 10px;">
-        <div style="flex: 1; padding-left: 10px;">
+    <div style="flex: 1; padding-left: 5px;">
+        <div style="flex: 1; padding-left: 5px;">
             <p align="center">
                 <a href="https://github.com/gokulsenthilkumar3">
                     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsenthilkumar3&theme=radical" />
