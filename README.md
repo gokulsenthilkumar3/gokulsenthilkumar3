@@ -19,5 +19,6 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr.kangeyan/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/GokulKangeyanS)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/P2zYBiCLzn/)
+<br><br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3)
