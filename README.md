@@ -55,19 +55,10 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
+<br><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3" />
-<br><br>
-<a href="https://github.com/srikumar03">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srikumar03&theme=radical" />
-</a>
+<br><br><br>
 
-
-
-<br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap)
 <br/><br/>
 
