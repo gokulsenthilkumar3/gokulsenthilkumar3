@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Gokul Senthilkumar
 #### MSc (Software Systems) Student
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=gokulsenthilkumar3&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsenthilkumar3" /> </p>
+
 Dynamic and innovative person in Full Stack Web Development, I possess a strong foundation in software systems and a passion for creating impactful digital solutions. With expertise in a wide range of knowledge programming languages and web frameworks, I have a comprehensive understanding of the basic web development lifecycle. Driven by a commitment to staying at the forefront of industry trends, I am dedicated to delivering high-quality projects within tight deadlines.
 
 - 🏌️Here's my [portfolio]()
@@ -12,12 +14,15 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
 [![Zoho Mail Badge](https://img.shields.io/badge/Zoho%20Mail-FF9900?style=for-the-badge&logo=zoho&logoColor=white)](mailto:gokulsenthilkumar@zohomail.in)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+916369671252)
+
+- 🌐 Connect with me:
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/gokulsenthilkumar3)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokul-s-8027b4228/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr.kangeyan/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/GokulKangeyanS)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/P2zYBiCLzn/)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+916369671252)
+
 <br><br>
 
 
@@ -57,6 +62,21 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 <br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap)
 <br/><br/>
-[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=000000&color=47a948&line=38d652&point=f00505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <a href="https://github.com/srikumar03">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsenthilkumar3&theme=radical" />
+  </a>
+</p>
+
+
+
+<a> 
+    <a href="https://github.com/gokulsenthilkumar3"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/gokulsenthilkumar3"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<!-- [![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=000000&color=47a948&line=38d652&point=f00505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 
 
