@@ -17,6 +17,8 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+916369671252)
 
 - 🌐 Connect with me:
+
+  
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/gokulsenthilkumar3)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokul-s-8027b4228/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr.kangeyan/)
@@ -61,11 +63,3 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap)
 <br/><br/>
-
-
-
-
-<!-- [![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=000000&color=47a948&line=38d652&point=f00505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-
-
