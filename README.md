@@ -21,4 +21,5 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/P2zYBiCLzn/)
 
 <br>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=gokulsenthilkumar3)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3)
+
