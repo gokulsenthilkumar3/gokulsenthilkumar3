@@ -12,6 +12,7 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 - ⚡ Know more about me 👇 :
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
+[![Zoho Mail Badge](https://img.shields.io/badge/Zoho%20Mail-FF9900?style=for-the-badge&logo=zoho&logoColor=white)](mailto:gokulsenthilkumar@zohomail.in)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/gokulsenthilkumar3)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokul-s-8027b4228/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr.kangeyan/)
