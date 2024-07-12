@@ -8,10 +8,11 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 - 🏌️Here's my [portfolio]()<br/>
 - 👀 I’m interested in Full Stack development
 - 🔭 I’m currently working on MERN Stack  
-- 🌱 I’m currently learning Python, DSA and Spring Boot
+- 🌱 I’m currently learning Python, DSA, and Spring Boot
 - 💬 Ask me about MERN  
 - 📫 How to reach me: gokulsenthilkumar3@gmail.com or gokulsenthilkumar@zohomail.in 
 - ⚡ Know more about me 👇 : ...<br/><br/>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/gokulsenthilkumar3)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokul-s-8027b4228/)
