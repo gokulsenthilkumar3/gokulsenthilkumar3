@@ -18,5 +18,9 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/GokulKangeyanS)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/P2zYBiCLzn/)
 <br><br>
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3)
+<br><br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/gokulsenthilkumar3?theme=dark&font=Marcellus&ext=heatmap)
+<br/><br/>
+[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=000000&color=47a948&line=38d652&point=f00505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
