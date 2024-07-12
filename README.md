@@ -70,12 +70,6 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 </p>
 
 
-
-<a> 
-    <a href="https://github.com/gokulsenthilkumar3"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/gokulsenthilkumar3"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 <!-- [![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=000000&color=47a948&line=38d652&point=f00505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
