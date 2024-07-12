@@ -1,7 +1,3 @@
-## Hi there 👋
-
-I'm Gokul S. I am a Full Stack Web Developer in MERN and efficient in Java and C# programming.
-
 ### Hi there 👋, I am Gokul Senthilkumar
 #### Full Stack Web Developer
 As a dynamic and innovative person in Full Stack Web Development, I possess a strong foundation in software systems and a passion for creating impactful digital solutions. With expertise in a wide range of knowledge programming languages and web frameworks, I have a comprehensive understanding of the basic web development lifecycle. Driven by a commitment to staying at the forefront of industry trends, I am dedicated to delivering high-quality projects within tight deadlines.
