@@ -13,26 +13,19 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 - ⚡ Fun fact I think I am CURIOUS
 
 
-
-
 - 📫 How to reach me 👇 :
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
 [![Zoho Mail Badge](https://img.shields.io/badge/Zoho%20Mail-FF9900?style=for-the-badge&logo=zoho&logoColor=white)](mailto:gokulsenthilkumar@zohomail.in)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+916369671252)
 
-- 
 ## 🌐 Socials:
-
   
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/gokulsenthilkumar3)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokul-s-8027b4228/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr.kangeyan/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/GokulKangeyanS)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/P2zYBiCLzn/)
-
-<br><br>
-
 
 # 💻 Tech Stack:
 
