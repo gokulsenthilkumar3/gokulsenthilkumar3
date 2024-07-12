@@ -15,7 +15,7 @@ Skills: C / JAVA / C# / MERN / MySQL
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/GokulKangeyanS)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/gokulsenthilkumar3/)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=gokulsenthilkumar3)
 
  
 
