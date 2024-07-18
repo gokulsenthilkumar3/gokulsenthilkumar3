@@ -5,7 +5,7 @@
 
 Dynamic and innovative person in Full Stack Web Development, I possess a strong foundation in software systems and a passion for creating impactful digital solutions. With expertise in a wide range of knowledge programming languages and web frameworks, I have a comprehensive understanding of the basic web development lifecycle. Driven by a commitment to staying at the forefront of industry trends, I am dedicated to delivering high-quality projects within tight deadlines.
 
-- 🏌️Here's my [portfolio]()
+- 🏌️Here's my Portfolio : [Gokul Senthilkumar Portfolio](https://www.linkedin.com/in/gokul-s-8027b4228)
 - 👀 I’m interested in Full Stack development
 - 🔭 I’m currently working on MERN Stack  
 - 🌱 I’m currently learning Python, DSA, and Spring Boot
