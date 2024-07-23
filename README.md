@@ -13,7 +13,7 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 - ⚡ Fun fact I think I am CURIOUS
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me 👇 :
-<br>
+<br><br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
 [![Zoho Mail Badge](https://img.shields.io/badge/Zoho%20Mail-FF9900?style=for-the-badge&logo=zoho&logoColor=white)](mailto:gokulsenthilkumar@zohomail.in)
