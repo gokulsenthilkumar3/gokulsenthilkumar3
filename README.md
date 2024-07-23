@@ -12,7 +12,8 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 - 💬 Ask me about MERN
 - ⚡ Fun fact I think I am CURIOUS
 <br>
-- 📫 How to reach me 👇 :
+&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me 👇 :
+<br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
 [![Zoho Mail Badge](https://img.shields.io/badge/Zoho%20Mail-FF9900?style=for-the-badge&logo=zoho&logoColor=white)](mailto:gokulsenthilkumar@zohomail.in)
