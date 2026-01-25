@@ -5,12 +5,14 @@
 
 Dynamic and innovative person in Full Stack Web Development, I possess a strong foundation in software systems and a passion for creating impactful digital solutions. With expertise in a wide range of knowledge programming languages and web frameworks, I have a comprehensive understanding of the basic web development lifecycle. Driven by a commitment to staying at the forefront of industry trends, I am dedicated to delivering high-quality projects within tight deadlines.
 
-- 🏌️Here's my Portfolio : [Gokul Senthilkumar Portfolio](https://www.linkedin.com/in/gokul-s-8027b4228)
-- 👀 I’m interested in Full Stack development
-- 🔭 I’m currently working on MERN Stack  
-- 🌱 I’m currently learning Python, DSA, and Spring Boot
-- 💬 Ask me about MERN
-- ⚡ Fun fact I think I am CURIOUS
+## 🚀 About Me
+
+- 🔭 **Currently working on:** MERN Stack applications
+- 🌱 **Currently learning:** Python, DSA, and Spring Boot
+- 💼 **Portfolio:** [LinkedIn Profile](https://www.linkedin.com/in/gokul-s-8027b4228)
+- 💬 **Ask me about:** MERN Stack, Web Development, and Software Architecture
+- ⚡ **Fun fact:** I'm endlessly curious about how things work - from code to circuits!
+
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me 👇 :
 <br><br>
@@ -48,6 +50,19 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 <br><br><br>
+**## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3&theme=dark&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=dark&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3" />
 <br><br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap)
