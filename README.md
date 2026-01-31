@@ -50,20 +50,21 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 <br><br><br>
-**## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3&theme=dark&hide_border=true)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=dark&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=dark&hide_border=true)
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=dark&hide_border=true" />
+</p>
 
----**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3" />
-<br><br><br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap)
-<br/>
+---
+
+## 🧩 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap" />
+</p>
