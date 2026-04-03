@@ -68,3 +68,6 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Marcellus&ext=heatmap" />
 </p>
+
+
+
