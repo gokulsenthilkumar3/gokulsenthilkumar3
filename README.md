@@ -8,8 +8,12 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=220&section=header&text=Gokul%20Senthilkumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20in%20Test%20%7C%20Full%20Stack%20Architect&descAlignY=58&descSize=20" width="100%" />
 
+<br/>
+
 <!-- Dynamic Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25C3FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Innovative+SDET+%26+Full+Stack+Developer;🛠️+Architecting+Scalable+Test+Frameworks;💻+Full+Stack+Perfectionist+%7C+PERN+%26+MERN;⚡+Performance+Optimization+Expert)](https://github.com/gokulsenthilkumar3)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25C3FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Innovative+SDET+%26+Full+Stack+Developer;🛠️+Architecting+Scalable+Test+Frameworks;💻+Full+Stack+Perfectionist+%7C+PERN+%26+MERN;⚡+Performance+Optimization+Expert)](https://github.com/gokulsenthilkumar3)
+
+<br/>
 
 <!-- Animated Social & Status Bar -->
 <p align="center">
@@ -46,6 +50,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 ```json
 {
@@ -104,17 +110,21 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
+        <br/>
         <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&bg_color=1a1b27&title_color=79dafa" />
       </td>
     </tr>
   </table>
-🚀 Professional Redesign: Advanced SDET & Full Stack Portfolio
+</div>
+
 ---
 
 ## 🐍 Evolution in Code
 
 <div align="center">
+  <br/>
   <img width="100%" src="https://github.com/gokulsenthilkumar3/gokulsenthilkumar3/blob/output/github-contribution-grid-snake-dark.svg" />
+  <br/>
 </div>
 
 <div align="center">
@@ -126,6 +136,7 @@
 ## 🧠 Algorithmic Thinking
 
 <div align="center">
+  <br/>
   <img src="https://leetcard.jacoblin.cool/P2zYBiCLzn?theme=dark&font=Fira+Code&ext=heatmap" width="100%" />
 </div>
 
@@ -142,6 +153,6 @@
 
 [⭐ Star my repositories](https://github.com/gokulsenthilkumar3?tab=repositories) | [📬 Get in touch](mailto:gokulsenthilkumar3@gmail.com)
 
-**&copy; 2026 Gokul Senthilkumar | Version 2.0 (April Update)**
+**&copy; 2026 Gokul Senthilkumar | Version 2.1 (Performance & Space Fix)**
 
 </div>
