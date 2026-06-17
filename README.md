@@ -1,33 +1,40 @@
 <!--
-  💎 GOKUL SENTHILKUMAR — PROFILE README v6
-  Maximum Animations. Maximum Impact.
+  💎 GOKUL SENTHILKUMAR — PROFILE README v7
+  "Apple × Chennai One × Uber Premium"
+  Ultra-Animation Edition
   SDET + Full-Stack Engineer | Quality as Architecture
 -->
 
 <div align="center">
 
-<!-- Animated waving header with deep space gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:1a1040,50:0d1b3e,75:0a2a4a,100:00d4ff&height=320&section=header&text=Gokul%20Senthilkumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=SDET%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Quality%20Engineer&descAlignY=62&descSize=22" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════
+     CINEMATIC HERO — Platinum gradient, slow vortex
+════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,20:0d1117,40:0f3460,60:16213e,80:0a3d62,100:00d4ff&height=340&section=header&text=Gokul%20Senthilkumar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=SDET%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Quality%20Engineer&descAlignY=65&descSize=21&stroke=00d4ff&strokeWidth=2" width="100%" alt="Gokul Senthilkumar" />
 
 <br/>
 
-<!-- Animated typing SVG — 5-line cycle -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&multiline=true&width=920&height=140&lines=%F0%9F%9A%80+SDET+%26+Full-Stack+Engineer+%7C+PERN+Stack;%F0%9F%A7%AA+Architect+of+Tested+Systems+%7C+Performance+First;%E2%9A%99%EF%B8%8F+TypeScript+%7C+Next.js+%7C+k6+%7C+PostgreSQL+%7C+Docker;%F0%9F%8E%AF+%22Testing+is+not+QA.+It%27s+Architecture.%22;%F0%9F%94%A5+I+don%27t+ship+code.+I+ship+confidence.)](https://github.com/gokulsenthilkumar3)
+<!-- Animated typing — 5-line premium cycle -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2000&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=860&height=56&lines=%F0%9F%9A%80+SDET+%26+Full-Stack+Engineer+%7C+PERN+Stack;%F0%9F%A7%AA+Architect+of+Tested+Systems+%7C+Performance+First;%E2%9A%99%EF%B8%8F+TypeScript+%7C+Next.js+%7C+k6+%7C+PostgreSQL+%7C+Docker;%F0%9F%8E%AF+%22Testing+is+not+QA.+It%27s+Architecture.%22;%F0%9F%94%A5+I+don%27t+ship+code.+I+ship+confidence.)](https://github.com/gokulsenthilkumar3)
 
 <br/>
 
-<!-- Animated status badges -->
+<!-- Status pill badges -->
 <p>
   <a href="https://github.com/gokulsenthilkumar3">
     <img src="https://img.shields.io/github/followers/gokulsenthilkumar3?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=161B22&logoColor=00D4FF" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gokulsenthilkumar3&label=Profile+Views&color=00D4FF&style=for-the-badge" />
-  <a href="mailto:gokulsenthilkumar3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open_To-SDET_%7C_Full--Stack_%7C_AI_Quality-00D4FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Tamil_Nadu%2C_India_%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gokulsenthilkumar3&label=Profile+Views&color=00D4FF&style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Open_To-SDET_%7C_Full--Stack_%7C_AI_Quality-00D4FF?style=for-the-badge&logo=checkmarx&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Location-Tamil_Nadu%2C_India_%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=for-the-badge" />
 </p>
+
+<!-- Animated snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -45,12 +52,12 @@ I'm **Gokul Senthilkumar** — SDET & Full-Stack Developer from **Tamil Nadu, In
 
 I've spent the last few years asking a single question: *How do you build systems that don't just work, but hold up under fire?*
 
-The answer isn't heroic debugging at 3am. It's **architecture**—designing APIs, components, and flows that are **inherently testable, measurable, and observable** from day one.
+The answer isn't heroic debugging at 3am. It's **architecture** — designing APIs, components, and flows that are **inherently testable, measurable, and observable** from day one.
 
 My work spans three interconnected domains:
 
-- 🧪 **Test Architecture** — Shifting-left means test strategy shapes the system itself, not an afterthought
-- 🏗️ **Full-Stack Products** — End-to-end ownership from database schema to production deployment  
+- 🧪 **Test Architecture** — Shifting-left means test strategy shapes the system itself
+- 🏗️ **Full-Stack Products** — End-to-end ownership from DB schema to production deployment
 - 🤖 **AI-Native Quality** — LLM evaluation, benchmarking, and behavior testing at scale
 
 ```ts
@@ -70,17 +77,17 @@ const philosophy = {
 </td>
 <td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px" alt="coding" />
 
 <br/><br/>
 
-![Philosophy](https://img.shields.io/badge/Philosophy-Testing_is_Architecture-FF6B6B?style=flat-square&logo=testcafe&logoColor=white)
+<img src="https://img.shields.io/badge/Philosophy-Testing_is_Architecture-FF6B6B?style=flat-square&logo=testcafe&logoColor=white" />
 
-![Focus](https://img.shields.io/badge/Focus-SDET_%2F_Performance_Eng-00D4FF?style=flat-square&logo=k6&logoColor=white)
+<img src="https://img.shields.io/badge/Focus-SDET_%2F_Performance_Eng-00D4FF?style=flat-square&logo=k6&logoColor=white" />
 
-![Current](https://img.shields.io/badge/Current-LLM_Quality_Engineering-9B59B6?style=flat-square&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/Current-LLM_Quality_Engineering-9B59B6?style=flat-square&logo=openai&logoColor=white" />
 
-![Building](https://img.shields.io/badge/Building-ProbeAI_%7C_NexFlow_%7C_VaultIQ-00C851?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Building-ProbeAI_%7C_NexFlow_%7C_VaultIQ-00C851?style=flat-square&logo=github&logoColor=white" />
 
 </td>
 </tr>
@@ -129,7 +136,7 @@ const philosophy = {
 
 <div align="center">
 
-![Tier 1](https://img.shields.io/badge/%E2%AD%90_TIER_1-Strategic_Impact-00D4FF?style=for-the-badge)
+<img src="https://img.shields.io/badge/%E2%AD%90_TIER_1-Strategic_Impact-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" />
 
 </div>
 
@@ -210,7 +217,7 @@ const philosophy = {
 
 <div align="center">
 
-![Tier 2](https://img.shields.io/badge/%E2%AD%90%E2%AD%90_TIER_2-Production_Readiness-9B59B6?style=for-the-badge)
+<img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90_TIER_2-Production_Readiness-9B59B6?style=for-the-badge&logo=checkmark&logoColor=white" />
 
 </div>
 
@@ -245,7 +252,7 @@ Data-centric UI: income/expense tracking, budget modeling, investment dashboards
 
 <div align="center">
 
-![Tier 3](https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90_TIER_3-Craft_%26_Polish-FF6B6B?style=for-the-badge)
+<img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90_TIER_3-Craft_%26_Polish-FF6B6B?style=for-the-badge&logo=star&logoColor=white" />
 
 🌐 **[Portfolio](https://github.com/gokulsenthilkumar3/Portfolio)** — Production-grade personal site with SSR, performance optimization, and design intent.
 
@@ -273,18 +280,18 @@ Testability is a **design requirement**, not a checkbox.
 
 Every API, migration, and component is designed to be verifiable *before* shipping.
 
-![Shift-Left](https://img.shields.io/badge/Principle-Shift--Left-00D4FF?style=flat-square)
+<img src="https://img.shields.io/badge/Principle-Shift--Left-00D4FF?style=flat-square" />
 
 </td>
 <td width="25%" align="center">
 
 ### ⚡ Performance as Feature
 
-Speed isn't a bonus. It's part of product requirements.
+Speed isn't a bonus — it's part of product requirements.
 
 k6 load tests in CI catch SLA violations before production. **Latency budgets, not guesses.**
 
-![Performance](https://img.shields.io/badge/Tool-k6_Load_Testing-7D64FF?style=flat-square&logo=k6)
+<img src="https://img.shields.io/badge/Tool-k6_Load_Testing-7D64FF?style=flat-square&logo=k6" />
 
 </td>
 <td width="25%" align="center">
@@ -295,7 +302,7 @@ LLM evaluation requires structured harnesses, **not vibes**.
 
 ProbeAI treats AI quality like any product metric: measurable, tracked, regressed.
 
-![AI Testing](https://img.shields.io/badge/Built-ProbeAI_Framework-9B59B6?style=flat-square)
+<img src="https://img.shields.io/badge/Built-ProbeAI_Framework-9B59B6?style=flat-square" />
 
 </td>
 <td width="25%" align="center">
@@ -306,7 +313,7 @@ Every test generates metrics. Metrics drive decisions.
 
 Logging, tracing, dashboards — **they're how you know your system is alive.**
 
-![Observability](https://img.shields.io/badge/Practice-Observability_First-00C851?style=flat-square)
+<img src="https://img.shields.io/badge/Practice-Observability_First-00C851?style=flat-square" />
 
 </td>
 </tr>
@@ -321,39 +328,22 @@ Logging, tracing, dashboards — **they're how you know your system is alive.**
 <div align="center">
 
 ### 🔤 Languages & Runtime
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,nodejs&theme=dark" />
 
 ### 🎨 Frontend & Architecture
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark" />
 
 ### 🗄️ Backend & Data
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=express,postgresql,mongodb,redis,supabase,firebase&theme=dark" />
 
 ### 🧪 Testing & Quality Engineering
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cypress,playwright,selenium,jest,postman&theme=dark" />
+
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps_Test_Plans-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
 
 ### 🚀 DevOps & Cloud
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,azure,vercel,render&theme=dark" />
 
 </div>
 
@@ -366,29 +356,42 @@ Logging, tracing, dashboards — **they're how you know your system is alive.**
 <table>
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&ring_color=FF6B6B" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&ring_color=FF6B6B" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=9B59B6" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=9B59B6" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 <br/>
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" alt="Top Languages" />
 </td>
 </tr>
 </table>
+
+<!-- Animated 3D contribution graph -->
+<img width="100%" src="https://github-profile-3d-contrib.vercel.app/api/top?username=gokulsenthilkumar3&theme=nord_light" alt="3D Contribution Graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&area_color=00D4FF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&area_color=00D4FF" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gokulsenthilkumar3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -470,7 +473,7 @@ I stay sharp by:
 
 **Are you building something that needs:**
 
-> 🔒 Unshakeable reliability? 🏗️ Thoughtful architecture? ✨ Quality woven into every layer?
+> 🔒 Unshakeable reliability?&nbsp;&nbsp;🏗️ Thoughtful architecture?&nbsp;&nbsp;✨ Quality woven into every layer?
 
 ### **Reach out. Let's talk.**
 
@@ -493,15 +496,17 @@ I stay sharp by:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=160&section=footer&animation=twinkling&reversal=true" width="100%" />
+<!-- Animated footer wave with reversed platinum gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:0a3d62,60:16213e,100:0a0a0f&height=180&section=footer&animation=twinkling&reversal=true" width="100%" alt="footer" />
 
 <br/>
 
 *"Precision in Testing. Excellence in Engineering. Impact through Architecture."*
 
-**© 2026 Gokul Senthilkumar · Profile README v6 · Built with intent ✨**
+**© 2026 Gokul Senthilkumar · Profile README v7 · Apple × Chennai One × Uber Premium** ✨
 
-![Made with](https://img.shields.io/badge/Made_with-❤️_&_TypeScript-3178C6?style=flat-square&logo=typescript)
-![Powered by](https://img.shields.io/badge/Powered_by-Coffee_&_k6-7D64FF?style=flat-square&logo=k6)
+<img src="https://img.shields.io/badge/Made_with-❤️_&_TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Powered_by-Coffee_&_k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
+<img src="https://img.shields.io/badge/From-Tamil_Nadu%2C_India_%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=flat-square" />
 
 </div>
