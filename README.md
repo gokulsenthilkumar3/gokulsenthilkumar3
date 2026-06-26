@@ -32,6 +32,22 @@ I am in the research and architecture phase of designing two interconnected syst
 
 **Programming Language** — A systems language targeting the gap between Rust-level memory safety and Go-level readability, with a gradual formalism model and a unified compiler, build system, and package manager. Current phase: type system specification.
 
+### Why a New Language?
+
+No existing language scores above 7 across all critical dimensions simultaneously. The chart below maps the design gap:
+
+![Language Design Score Gap](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/cbcfab6fd3b89974aedc8d7a83f6b20f/dfec1fd6-1bc7-4640-a1e3-c1d43d6b9663/699bad8a.png)
+
+*Radar chart: 9 design dimensions scored 0–10. No existing language reaches ≥8 across all axes simultaneously.*
+
+### How Long Does It Take?
+
+Every language that became industry-defining solved a felt pain and then took years for the ecosystem to form around it:
+
+![Language Lifecycle Timeline](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/cbcfab6fd3b89974aedc8d7a83f6b20f/790b0941-5d3a-4a74-8e5f-9d492f31b845/bcad6541.png)
+
+*Timeline: creation year → mainstream adoption milestone. Diamond marker = mainstream. Dashed line = now (2026).*
+
 ---
 
 ## Technical Skills
