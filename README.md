@@ -1,213 +1,157 @@
-<!--
-  💎 GOKUL SENTHILKUMAR — PROFILE README v8
-  "The Billion Dollar Version"
-  Apple × Chennai One × Uber Premium
-  Zero Redundancy • Maximum Impact • Full Animation Suite
-  SDET + Full-Stack Engineer | Quality as Architecture
--->
+<!-- ============================================================
+     GOKUL SENTHILKUMAR — GitHub Profile README v9
+     gokulsenthilkumar3/gokulsenthilkumar3
+     "Building the Next Layer of Computing"
+     SDET · Full-Stack Architect · Systems Builder
+     ============================================================ -->
 
 <div align="center">
 
-<!-- CINEMATIC HERO — Venom wave + platinum midnight gradient + glow stroke -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,20:0d1117,40:0f3460,60:16213e,80:0a3d62,100:00d4ff&height=340&section=header&text=Gokul%20Senthilkumar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=SDET%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Quality%20Engineer&descAlignY=65&descSize=21&stroke=00d4ff&strokeWidth=2" width="100%" alt="Gokul Senthilkumar" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0a14,50:0d1117,75:0a1628,100:000000&height=300&section=header&text=Gokul%20Senthilkumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building%20the%20Next%20Layer%20of%20Computing&descAlignY=64&descSize=18&stroke=0047ab&strokeWidth=1" width="100%" alt="Gokul Senthilkumar — Building the Next Layer of Computing" />
 
-<br/>
+</div>
 
-<!-- JetBrains Mono ticker — Apple product launch feel -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2000&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=860&height=56&lines=%F0%9F%9A%80+SDET+%26+Full-Stack+Engineer+%7C+PERN+Stack;%F0%9F%A7%AA+Architect+of+Tested+Systems+%7C+Performance+First;%E2%9A%99%EF%B8%8F+TypeScript+%7C+Next.js+%7C+k6+%7C+PostgreSQL+%7C+Docker;%F0%9F%8E%AF+%22Testing+is+not+QA.+It%27s+Architecture.%22;%F0%9F%94%A5+I+don%27t+ship+code.+I+ship+confidence.)](https://github.com/gokulsenthilkumar3)
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0094FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=SDET+%E2%80%A2+Full-Stack+Architect+%E2%80%A2+Systems+Builder;Designing+a+new+OS+%2B+Programming+Language;Quality+Engineering+%E2%80%A2+AI-Native+Tooling;Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%86%92+Building+for+the+World)](https://github.com/gokulsenthilkumar3)
 
-<!-- Status pills — consolidated single row -->
-<p>
-  <a href="https://github.com/gokulsenthilkumar3">
-    <img src="https://img.shields.io/github/followers/gokulsenthilkumar3?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=161B22&logoColor=00D4FF" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=gokulsenthilkumar3&label=Profile+Views&color=00D4FF&style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/Open_To-SDET_%7C_Full--Stack_%7C_AI_Quality-00D4FF?style=for-the-badge&logo=checkmarx&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Location-Tamil_Nadu%2C_India_%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=for-the-badge" />
-</p>
+</div>
 
-<!-- Platane animated snake contribution grid -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=gokulsenthilkumar3&label=Profile+Views&color=0094FF&style=for-the-badge)](https://github.com/gokulsenthilkumar3)
+[![GitHub followers](https://img.shields.io/github/followers/gokulsenthilkumar3?label=Followers&style=for-the-badge&color=0094FF)](https://github.com/gokulsenthilkumar3?tab=followers)
+[![Open to Roles](https://img.shields.io/badge/Open_To-SDET_%7C_Full--Stack_%7C_Founding_Eng-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
 
 </div>
 
 ---
 
-## 💎 Who I Am & Why It Matters
+## 💎 Who I Am
 
-<table>
-<tr>
-<td width="58%">
+> **"I don't just write code. I build systems that know when they're broken — and tell you why."**
 
-> **"I don't ship code. I ship confidence."**
+I'm **Gokul Senthilkumar** — SDET & Full-Stack Developer from **Tamil Nadu, India** 🇮🇳. My work sits at the intersection of three disciplines most teams treat as separate:
 
-I'm **Gokul Senthilkumar** — SDET & Full-Stack Developer from **Tamil Nadu, India** 🇮🇳.
+| Domain | What I Build | Why It Matters |
+|--------|-------------|---------------|
+| 🧪 **Test Architecture** | Strategy-first quality frameworks | Testability is a design requirement, not an afterthought |
+| 🏗️ **Full-Stack Products** | End-to-end systems from schema → production | Real products that scale, not demos |
+| 🤖 **AI-Native Engineering** | LLM harnesses, eval frameworks, AI tooling | AI systems need the same rigor as any production system |
 
-I've spent the last few years asking one question: *How do you build systems that don't just work, but hold up under fire?*
+But those are the present. What drives me is a larger question:
 
-The answer isn't heroic debugging at 3am. It's **architecture** — designing APIs, components, and flows that are **inherently testable, observable, and measurable** from day one.
+> **Why do developers still fight the same foundational battles — memory safety, runtime crashes, opaque systems, broken tooling — that were identified 30 years ago?**
 
-My work spans three interconnected domains:
-
-- 🧪 **Test Architecture** — Strategy shapes the system, not an afterthought
-- 🏗️ **Full-Stack Products** — End-to-end from DB schema to production
-- 🤖 **AI-Native Quality** — Benchmarking LLMs at scale
-
-```ts
-const philosophy = {
-  coreBeliefs: [
-    "Testing is architecture",
-    "Performance is non-negotiable",
-    "Observability prevents incidents",
-    "Real products > toy projects"
-  ],
-  approach: "Shift-left + measure everything",
-  outcome: "Systems that scale, fail gracefully, and tell you why"
-};
-```
-
-</td>
-<td width="42%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px" alt="coding" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Philosophy-Testing_is_Architecture-FF6B6B?style=flat-square&logo=testcafe&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Focus-SDET_%2F_Performance_Eng-00D4FF?style=flat-square&logo=k6&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Current-Shipping_ProbeAI_v2-9B59B6?style=flat-square&logo=openai&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Building-NexFlow_%7C_VaultIQ_%7C_MathShield-00C851?style=flat-square&logo=github&logoColor=white" />
-
-</td>
-</tr>
-</table>
+That question led me to start designing something bigger.
 
 ---
 
-## 📧 Quick Contact
+## 🚀 The Long Game: A New Computing Platform
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/gokulsenthilkumar3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com%2Fgokulsenthilkumar3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulsenthilkumar3)
-
-</div>
-
----
-
-## 🎯 The Gap I Fill
+I'm in the research & architecture phase of building two deeply interconnected systems:
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔴 Without Test-First Architecture
+### 🖥️ A New Operating System
+**Problem:** Modern OSes weren't designed for AI, immutable infrastructure, or capability-based security. They bolt features on top of 1970s foundations.
 
-- Engineers ship, hope for best
-- Performance = mystery until prod
-- Tests = afterthought PR review
-- 3am = when you learn about issues
-- Quality ≠ priority
+**Vision:**
+- Microkernel with capability-based security from layer 0
+- Atomic, rebootless OS image updates (5s, 99.999% success)
+- AI-native process scheduling and memory management
+- Reproducible, formally-verified build chain
+
+**Status:** `Research Phase` · `Architecture RFC in progress`
 
 </td>
 <td width="50%">
 
-### 🟢 With Me (Test as Foundation)
+### 🔤 A New Programming Language
+**Problem:** No single language today scores ≥8/10 across AI-native design, memory safety, fast compilation, formal verification, and cross-platform coverage simultaneously.
 
-- Design for testability from day 1
-- Performance baselines gated in CI
-- Tests shape the architecture itself
-- Incidents become rare & explainable
-- Quality = culture
+**Vision:**
+- Rust-level memory safety, Go-level readability
+- Gradual formalism: prototype freely, verify formally when critical
+- AI compiler: type system that understands intent, not just syntax
+- Unified runtime + build + package manager in one binary
+
+**Status:** `Design Phase` · `Type System Spec in progress`
 
 </td>
 </tr>
 </table>
 
+> These aren't side projects. They are a 10–15 year platform play designed from first principles. Every line of production code I write today funds and informs this research.
+
 ---
 
-## 🚀 Flagship Projects — With Real Impact
+## 🛠️ Flagship Projects — Real Impact, Real Code
 
 > *Problems I solved. Systems I built. Outcomes that matter.*
-
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%AD%90_TIER_1-Strategic_Impact-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" />
-</div>
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🧪 [ProbeAI](https://github.com/gokulsenthilkumar3/ProbeAI)
-**LLM Test & Evaluation Framework**
+**LLM Evaluation & Test Framework**
 
-**Problem:** Teams evaluate LLMs with anecdotes. No metrics, no regression.
+**Problem:** Teams evaluate AI models with vibes, not metrics.
 
-**Solution:**
-- Prompt regression tracking
-- Behavioral scoring (consistency, safety, utility)
-- Comparative benchmarking across model versions
-- CI-integrated release gating
-
-**⚡ Impact:** Enables data-driven LLM decisions in production.
+- Prompt regression tracking across model versions
+- Behavioral scoring: consistency, safety, utility
+- CI-integrated release gating for LLM deployments
+- Cost-per-quality optimization across model providers
 
 `TypeScript` `LLM Testing` `AI Quality` `Benchmarking`
-
----
-
-### 🛡️ [MathShield-CDN](https://github.com/gokulsenthilkumar3/MathShield-CDN)
-**Next-Gen CAPTCHA Without The Pain**
-
-**Problem:** Traditional CAPTCHAs break UX. Bots evolve faster than defenses.
-
-**Solution:**
-- Contextual difficulty (easy for humans, hard for bots)
-- Behavioral risk scoring
-- CDN-friendly (<10ms overhead)
-- Zero friction for real users
-
-**⚡ Impact:** Security ≠ friction. Proves both are possible.
-
-`Next.js` `Security` `UX` `Performance` `CDN`
 
 </td>
 <td width="50%">
 
+### 🛡️ [MathShield-CDN](https://github.com/gokulsenthilkumar3/MathShield-CDN)
+**Next-Gen CAPTCHA Without UX Friction**
+
+**Problem:** CAPTCHAs break UX. Bots evolve faster than defenses.
+
+- Contextual difficulty (easy for humans, hard for bots)
+- Behavioral risk scoring at the edge
+- CDN-native with <10ms overhead
+- Zero friction for real users
+
+`Next.js` `Security` `Performance` `CDN`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📋 [NexFlow](https://github.com/gokulsenthilkumar3/NexFlow)
-**Project Management + Helpdesk Platform**
+**Unified Project Management + Helpdesk**
 
-**Problem:** Teams use 3 different tools for tickets, sprints, support.
+**Problem:** Teams juggle 3 tools for tickets, sprints, and support.
 
-**Solution:**
-- Unified Kanban + sprint planning
-- Ticket lifecycle automation
+- Unified Kanban + sprint planning in one surface
+- Ticket lifecycle automation with SLA tracking
 - Real-time team collaboration
-- Scalable to 1000s of concurrent users
-
-**⚡ Impact:** Proves ability to ship SaaS-grade internal tools.
+- Architected for 1000+ concurrent users
 
 `TypeScript` `Full-Stack` `PERN` `SaaS`
 
----
+</td>
+<td width="50%">
 
 ### 🗄️ [VaultIQ](https://github.com/gokulsenthilkumar3/VaultIQ)
 **Enterprise Asset Intelligence Platform**
 
 **Problem:** Companies lose track of assets. No audit trail. Compliance risk.
 
-**Solution:**
-- Real-time allocation tracking
+- Real-time asset allocation tracking
 - Automated compliance reporting
-- Full access logs for every action
+- Full audit log for every mutation
 - Scales to 10k+ assets
-
-**⚡ Impact:** Enterprise workflow mastery + operational maturity.
 
 `PostgreSQL` `Node.js` `React` `Compliance`
 
@@ -215,141 +159,68 @@ const philosophy = {
 </tr>
 </table>
 
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90_TIER_2-Production_Ready-9B59B6?style=for-the-badge&logo=checkmark&logoColor=white" />
-</div>
+**More production work:**
 
-| 🏭 **[Yarn-Management](https://github.com/gokulsenthilkumar3/Yarn-Management)** — Textile ERP | 💰 **[Finance-OxFin](https://github.com/gokulsenthilkumar3/Finance-OxFin)** — Finance Dashboard |
-|:---|:---|
-| Real business workflows: inventory, orders, suppliers, finance reconciliation. Models complex domain logic end-to-end. | Data-centric UI: income/expense tracking, budget modeling, investment dashboards. Thoughtful financial UX. |
-
-`TypeScript` `PERN` `Business Logic` `ERP` | `TypeScript` `Charts` `Finance` `PostgreSQL`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90_TIER_3-Craft_%26_Polish-FF6B6B?style=for-the-badge&logo=star&logoColor=white" />
-
-🌐 **[Portfolio](https://github.com/gokulsenthilkumar3/Portfolio)** — Production-grade personal site. SSR. Performance-optimized. Design intent.
-
-[![All Repos](https://img.shields.io/badge/📦_Browse_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulsenthilkumar3?tab=repositories)
-
-</div>
-
----
-
-## 🧪 SDET Philosophy: What Sets Me Apart
-
-<div align="center">
-
-*Most SDETs write test scripts. I architect quality.*
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🔬 Shift-Left
-
-Testability is a **design requirement**, not a checkbox.
-
-Every API, migration, and component is built verifiable *before* shipping.
-
-<img src="https://img.shields.io/badge/Principle-Shift--Left-00D4FF?style=flat-square" />
-
-</td>
-<td width="25%" align="center">
-
-### ⚡ Performance as Feature
-
-Speed isn't a bonus — it's a requirement.
-
-k6 in CI catches SLA violations before production. Latency budgets, not guesses.
-
-<img src="https://img.shields.io/badge/Tool-k6_Load_Testing-7D64FF?style=flat-square&logo=k6" />
-
-</td>
-<td width="25%" align="center">
-
-### 🤖 AI-Native Testing
-
-LLMs need structured harnesses, **not vibes**.
-
-ProbeAI treats AI quality like any product metric: measurable, tracked, regressed.
-
-<img src="https://img.shields.io/badge/Built-ProbeAI_Framework-9B59B6?style=flat-square" />
-
-</td>
-<td width="25%" align="center">
-
-### 📊 Observability-First
-
-Every test generates metrics. Metrics drive decisions.
-
-Logging + tracing + dashboards = how you know your system is alive.
-
-<img src="https://img.shields.io/badge/Practice-Observability_First-00C851?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-> **"Your test suite tells you what you value. Don't test performance? It won't perform. Don't test security? You'll be hacked. Don't test the full flow? Your customers find the bugs."** — The philosophy I ship.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏭 [Yarn-Management](https://github.com/gokulsenthilkumar3/Yarn-Management) | Textile ERP — inventory, orders, suppliers, finance | TypeScript · PERN |
+| 💰 [Finance-OxFin](https://github.com/gokulsenthilkumar3/Finance-OxFin) | Finance dashboard — income, budgets, investments | TypeScript · Charts |
+| 🌐 [Portfolio](https://github.com/gokulsenthilkumar3/Portfolio) | SSR portfolio — performance-optimized, pixel-perfect | Next.js 14 · TypeScript |
 
 ---
 
 ## ⚙️ Tech Stack
 
-<div align="center">
-
-### 🔤 Languages & Runtime
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,nodejs&theme=dark" />
+### 🔤 Languages
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark" />
+![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Vue](https://skillicons.dev/icons?i=vue&theme=dark) ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark)
 
 ### 🗄️ Backend & Data
-<img src="https://skillicons.dev/icons?i=express,postgresql,mongodb,redis,supabase,firebase&theme=dark" />
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![Redis](https://skillicons.dev/icons?i=redis&theme=dark) ![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
 
 ### 🧪 Testing & Quality Engineering
-<img src="https://skillicons.dev/icons?i=cypress,playwright,selenium,jest,postman&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps_Test_Plans-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+![Cypress](https://skillicons.dev/icons?i=cypress&theme=dark) ![Playwright](https://skillicons.dev/icons?i=playwright&theme=dark) ![Jest](https://skillicons.dev/icons?i=jest&theme=dark)
+[![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)](https://k6.io)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/devops)
 
 ### 🚀 DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,azure,vercel,render&theme=dark" />
-
-</div>
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) ![Render](https://skillicons.dev/icons?i=render&theme=dark) ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark)
 
 ---
 
-## 📊 Engineering Activity & Growth
+## 🧪 SDET Philosophy
+
+> *Most SDETs write test scripts. I architect quality.*
+
+```
+Quality is not a phase. It's a constraint on the entire system.
+If it isn't testable by design, it's broken by design.
+```
+
+| Principle | What It Means In Practice |
+|-----------|--------------------------|
+| 🔬 **Shift-Left** | Testability is a design requirement before any code is written |
+| ⚡ **Performance as Feature** | Latency budgets in CI — k6 gates releases, not post-mortems |
+| 📊 **Observability-First** | Every test generates metrics; metrics drive architecture decisions |
+| 🤖 **AI-Native Quality** | LLMs need structured harnesses, not vibes. ProbeAI is my answer |
+| 🔐 **Security by Design** | Threat model before code, not after incidents |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&ring_color=FF6B6B" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=9B59B6" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<br/>
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" alt="Top Languages" />
-</td>
-</tr>
-</table>
+| Stats | Streak |
+|-------|--------|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0094FF&icon_color=00D4FF&text_color=fbfbfb&ring_color=FF6B6B)](https://github.com/gokulsenthilkumar3) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokulsenthilkumar3&theme=tokyonight&hide_border=true&background=0D1117&stroke=0094FF&ring=0094FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=9B59B6)](https://github.com/gokulsenthilkumar3) |
 
-<!-- 3D contribution graph -->
-<img width="100%" src="https://github-profile-3d-contrib.vercel.app/api/top?username=gokulsenthilkumar3&theme=nord_light" alt="3D Contribution Graph" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=0094FF&text_color=fbfbfb)](https://github.com/gokulsenthilkumar3)
 
-<!-- Activity graph with area fill -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&area_color=00D4FF" alt="Activity Graph" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=0D1117&color=0094FF&line=0094FF&point=FF6B6B&area=true&hide_border=true&area_color=0094FF)](https://github.com/gokulsenthilkumar3)
 
 </div>
 
@@ -358,169 +229,62 @@ Logging + tracing + dashboards = how you know your system is alive.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gokulsenthilkumar3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gokulsenthilkumar3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/gokulsenthilkumar3)
+
 </div>
-
----
-
-## 🌟 The Gokul Effect™
-
-<table>
-<tr>
-<td width="50%">
-
-### Before I Join
-```
-⏰ Quality = "sometime later"
-💸 Testing = overhead cost
-⚠️  Performance = late surprise
-📢 Incidents = learning opportunities
-🚫 Unmeasured = unknown
-🔥 3am calls = normal
-```
-
-</td>
-<td width="50%">
-
-### After I Join
-```
-🚀 Quality from day one
-🧪 Testing = architecture layer
-📊 Performance gated in CI
-🔍 Incidents = rare & transparent
-📈 Measured = consistently improved
-💤 3am calls = a thing of the past
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🔥 Currently Shipping
 
-| Project | Focus | Timeline |
-|:---|:---|:---|
-| **ProbeAI v2** | Multi-model regression tracking + cost optimization | Q3 2026 |
-| **NexFlow** | Real-time collab + advanced board templates | Q3 2026 |
-| **k6 Custom Framework** | Organization-scale load testing + SLA dashboards | Q4 2026 |
-| **Open Source Tools** | Performance testing utilities (coming soon) | Q4 2026 |
+| Project | What's Next | Target |
+|---------|-------------|--------|
+| **ProbeAI v2** | Multi-model regression + cost optimization layer | Q3 2026 |
+| **NexFlow** | Real-time collab engine + advanced board templates | Q3 2026 |
+| **OS Research** | Microkernel architecture RFC + capability model spec | Q4 2026 |
+| **Language Design** | Type system formal spec + proof-of-concept parser | Q4 2026 |
+| **k6 Framework** | Org-scale load testing + SLA dashboard suite | Q4 2026 |
 
 ---
 
 ## 📊 By The Numbers
 
-<div align="center">
-
 ```
-┌──────────────┬───────────────┬───────────────┐
-│  7 Products  │  1000+ Tests  │  Active Streak │
-│   Shipped    │   Deployed    │   Committed    │
-├──────────────┼───────────────┼───────────────┤
-│  5 Domains   │  10+ Languages│  50+ Stacks    │
-│  of Expertise│   Mastered    │  Experienced   │
-└──────────────┴───────────────┴───────────────┘
+┌─────────────────┬──────────────────┬──────────────────┐
+│   39 Repos      │  Active Commits  │  7 Products      │
+│   on GitHub     │  Every Month     │  Shipped         │
+├─────────────────┼──────────────────┼──────────────────┤
+│  5 Domains      │  10+ Languages   │  2 Platform      │
+│  of Expertise   │  Mastered        │  Systems Designed│
+└─────────────────┴──────────────────┴──────────────────┘
 ```
 
-</div>
+---
+
+## 🎯 What I'm Open To
+
+| Role | What I Bring |
+|------|-------------|
+| 🟢 **SDET / Test Architecture** | Design testability into systems. Own test strategy end-to-end. |
+| 🟢 **Full-Stack Engineering** | Build critical internal tools, APIs, and dashboards that scale. |
+| 🟢 **AI Quality Engineering** | Benchmark, evaluate, and safety-check LLM systems at scale. |
+| 🟢 **Founding Engineer / Early Hire** | Multiple hats, quality-first culture, building from zero with intent. |
+| 🟢 **Platform / Systems Engineering** | Infrastructure, observability, developer tooling, CI/CD. |
+
+**Hard pass on:**
+`Testing as a cost center` · `"We'll refactor later"` · `Shipping without measuring` · `Ego-driven architecture`
 
 ---
 
-## 💬 What It Means to Work With Me
+## 📬 Let's Build Something That Lasts
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ For Product Teams
-- ✅ Systems designed for shipping, not shortcuts
-- ✅ Performance measured from day one, not prod
-- ✅ Test coverage = safety to iterate fast
-- ✅ CI/CD catches bugs before production
-- ✅ Observability built in, not bolted on
-
-</td>
-<td width="50%">
-
-### 🚀 For Founders / Startups
-- ✅ SDET + full-stack + DevOps in one hire
-- ✅ Build the right thing, measured correctly
-- ✅ Scaling frameworks in place from day one
-- ✅ Quality culture baked into every commit
-- ✅ Architecture decisions that age well
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 The Hunt
-
-I'm actively seeking roles where:
-
-### 🟢 SDET / Test Architecture
-Design testability into systems. Own test strategy end-to-end. Build frameworks that scale.
-
-### 🟢 Full-Stack Engineering (PERN/TypeScript)
-Build critical internal tools, dashboards, and APIs. Own from schema to production.
-
-### 🟢 AI Quality Engineering
-Benchmark, evaluate, and safety-check LLM systems. Structure AI quality like real QA.
-
-### 🟢 Founding Engineer / Early Hire
-Multiple hats, quality-first culture, building from zero with intent.
-
-### 🟢 Platform Engineering
-Infrastructure, observability, developer tooling, CI/CD pipelines.
-
----
-
-## 🚫 Hard Pass On
-
-| Skip | Why |
-|:---|:---|
-| 🔴 Testing as a cost center | Testing *is* the product |
-| 🔴 "We'll refactor later" | You won't. And it will hurt. |
-| 🔴 Shipping without measuring | Can't improve what you can't see |
-| 🔴 Ego-driven architecture decisions | Architecture > politics |
-
----
-
-## 🎓 Always Learning
-
-| Domain | Current Focus |
-|:---|:---|
-| 🧪 **Testing Frameworks** | k6, Cypress, Playwright, custom harnesses |
-| ⚡ **Performance Engineering** | Load testing, profiling, SLA design, latency budgets |
-| 🤖 **LLM Systems** | Prompt engineering, evaluation harnesses, cost optimization |
-| 🏗️ **Architecture** | Cloud patterns, observability, scalable database design |
-| 💡 **Product Thinking** | How systems map to real user problems |
-| 🔐 **Security** | Threat modeling, auth patterns, API hardening |
-
----
-
-## 📬 Let's Build Systems That Matter
+**If you're building systems that need unshakeable reliability, thoughtful architecture, and quality as a first-class concern:**
 
 <div align="center">
 
-**Are you building something that needs unshakeable reliability, thoughtful architecture, and quality woven into every layer?**
-
-### Reach out. Let’s talk.
-
-[![Email](https://img.shields.io/badge/📧_gokulsenthilkumar3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_github.com%2Fgokulsenthilkumar3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulsenthilkumar3)
-
-<br/>
-
-| **Your Need** | **I Can Help With** |
-|:---|:---|
-| 🧪 Building a test framework | Design testability into architecture from day one |
-| 🚀 Launching a new product | Set up performance baselines before first deploy |
-| 🤖 Evaluating LLM systems | Structure benchmarks, regression tests, guardrails |
-| 📊 Scaling infrastructure | Build observability that prevents incidents |
-| 🔐 Hardening security | Threat-model and design testable auth flows |
+[![Email](https://img.shields.io/badge/Email-gokulsenthilkumar3@gmail.com-0094FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsenthilkumar3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gokulsenthilkumar3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulsenthilkumar3)
 
 </div>
 
@@ -528,17 +292,14 @@ Infrastructure, observability, developer tooling, CI/CD pipelines.
 
 <div align="center">
 
-<!-- Animated footer wave — reversed platinum gradient twinkling -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:0a3d62,60:16213e,100:0a0a0f&height=180&section=footer&animation=twinkling&reversal=true" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a1628,70:0d1117,100:000000&height=120&section=footer&animation=twinkling&reversal=true" width="100%" alt="footer" />
 
-<br/>
+*Precision in Testing · Excellence in Engineering · Building the Next Layer of Computing*
 
-*"Precision in Testing. Excellence in Engineering. Impact through Architecture."*
+**© 2026 Gokul Senthilkumar · Profile README v9**
 
-**© 2026 Gokul Senthilkumar · Profile README v8 · The Billion Dollar Version** ✨
-
-<img src="https://img.shields.io/badge/Made_with-❤️_&_TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Powered_by-Coffee_&_k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
-<img src="https://img.shields.io/badge/From-Tamil_Nadu%2C_India_%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=flat-square" />
+![Made with TypeScript](https://img.shields.io/badge/Made_with-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![From Tamil Nadu](https://img.shields.io/badge/From-Tamil_Nadu,_India_🇮🇳-FF6B6B?style=flat-square)
+![Building](https://img.shields.io/badge/Currently-Building_an_OS_%2B_Language-0094FF?style=flat-square&logo=rocket&logoColor=white)
 
 </div>
