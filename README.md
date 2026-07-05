@@ -5,9 +5,8 @@
 
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=220&section=header&text=Gokul%20Senthilkumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%26%20Full-Stack%20Architect%20%7C%20Performance-Driven%20Engineer&descAlignY=58&descSize=19" width="100%" />
-
+  <h1 align="center">Gokul Senthilkumar</h1>
+  
   <br/>
 
   <!-- Dynamic Animated Typing -->
@@ -122,7 +121,7 @@ These are the projects that best represent **what I can own end‑to‑end**:
 
 ```mermaid
 mindmap
-  root((Gokul))
+  root("Gokul")
     Testing
       Playwright
       k6 Load
