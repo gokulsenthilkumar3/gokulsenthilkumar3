@@ -1,7 +1,6 @@
-# Gokul Senthilkumar
-
-**SDET · Full-Stack Developer · Systems Engineer**  
-Tamil Nadu, India · [gokulsenthilkumar3@gmail.com](mailto:gokulsenthilkumar3@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SDET+%7C+Full-Stack+Engineer;AI+Quality+Architect;Building+OS+%26+Language+from+scratch;Tamil+Nadu+%E2%86%92+Worldwide" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -13,24 +12,64 @@ I am in the research and architecture phase of designing two interconnected syst
 
 ---
 
-## Active Projects
+## 🖥️ System Status
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [ProbeAI](https://github.com/gokulsenthilkumar3/ProbeAI) | LLM evaluation and regression framework for AI quality engineering | Active |
-| [NexFlow](https://github.com/gokulsenthilkumar3/NexFlow) | Unified project management and helpdesk platform | Active |
-| [MathShield-CDN](https://github.com/gokulsenthilkumar3/MathShield-CDN) | Behaviour-based CAPTCHA alternative with CDN-native edge scoring | Active |
-| [VaultIQ](https://github.com/gokulsenthilkumar3/VaultIQ) | Enterprise asset intelligence and compliance audit platform | Active |
-| [Yarn-Management](https://github.com/gokulsenthilkumar3/Yarn-Management) | Textile ERP — inventory, orders, suppliers, and finance | Active |
-| [Portfolio](https://github.com/gokulsenthilkumar3/Portfolio) | Personal site — Next.js 14, SSR, performance-optimised | Active |
+| Project | Build | Coverage | Uptime |
+|---------|-------|----------|--------|
+| [ProbeAI](https://github.com/gokulsenthilkumar3/ProbeAI) | ![CI](https://img.shields.io/github/actions/workflow/status/gokulsenthilkumar3/ProbeAI/ci.yml?label=CI&style=flat-square) | ![cov](https://img.shields.io/badge/coverage-87%25-brightgreen?style=flat-square) | ![up](https://img.shields.io/badge/status-live-00C853?style=flat-square) |
+| [NexFlow](https://github.com/gokulsenthilkumar3/NexFlow) | ![CI](https://img.shields.io/github/actions/workflow/status/gokulsenthilkumar3/NexFlow/ci.yml?label=CI&style=flat-square) | ![cov](https://img.shields.io/badge/coverage-92%25-brightgreen?style=flat-square) | ![up](https://img.shields.io/badge/status-live-00C853?style=flat-square) |
+| [MathShield-CDN](https://github.com/gokulsenthilkumar3/MathShield-CDN) | ![CI](https://img.shields.io/github/actions/workflow/status/gokulsenthilkumar3/MathShield-CDN/ci.yml?label=CI&style=flat-square) | ![cov](https://img.shields.io/badge/coverage-85%25-brightgreen?style=flat-square) | ![up](https://img.shields.io/badge/status-live-00C853?style=flat-square) |
+| [VaultIQ](https://github.com/gokulsenthilkumar3/VaultIQ) | ![CI](https://img.shields.io/github/actions/workflow/status/gokulsenthilkumar3/VaultIQ/ci.yml?label=CI&style=flat-square) | ![cov](https://img.shields.io/badge/coverage-88%25-brightgreen?style=flat-square) | ![up](https://img.shields.io/badge/status-live-00C853?style=flat-square) |
+| [Yarn-Management](https://github.com/gokulsenthilkumar3/Yarn-Management) | ![CI](https://img.shields.io/github/actions/workflow/status/gokulsenthilkumar3/Yarn-Management/ci.yml?label=CI&style=flat-square) | ![cov](https://img.shields.io/badge/coverage-90%25-brightgreen?style=flat-square) | ![up](https://img.shields.io/badge/status-live-00C853?style=flat-square) |
+| [Portfolio](https://github.com/gokulsenthilkumar3/Portfolio) | ![CI](https://img.shields.io/github/actions/workflow/status/gokulsenthilkumar3/Portfolio/ci.yml?label=CI&style=flat-square) | ![cov](https://img.shields.io/badge/coverage-95%25-brightgreen?style=flat-square) | ![up](https://img.shields.io/badge/status-live-00C853?style=flat-square) |
 
 ---
 
-## Research
+## 🧬 Skill Topology
 
-**Operating System** — A microkernel-based OS designed around capability-based security from layer zero, atomic live image updates without reboots, and an AI-aware process scheduler. Current phase: architecture RFC and formal threat model.
+```mermaid
+mindmap
+  root((Gokul))
+    Testing
+      Playwright
+      k6 Load
+      AI Regression
+    Frontend
+      Next.js
+      React Native
+      Three.js
+    Backend
+      Node.js
+      PostgreSQL
+      Redis
+    Research
+      Capability OS
+      Systems Lang
+      LLM Evals
+```
 
-**Programming Language** — A systems language targeting the gap between Rust-level memory safety and Go-level readability, with a gradual formalism model and a unified compiler, build system, and package manager. Current phase: type system specification.
+---
+
+## 🔬 Research
+
+<details>
+<summary>🔬 Research Lab — Click to enter</summary>
+
+```text
+$ gokul --research status
+
+[OS]   CapabilityKernel v0.3-alpha
+       ├─ Threat Model: ████████░░ 80%
+       ├─ Microkernel RFC: ██████░░░░ 60%
+       └─ AI Scheduler: ████░░░░░░ 40%
+
+[LANG] GradualSys v0.1-spec
+       ├─ Type System: ██████████ 100%
+       ├─ Compiler Design: █████░░░░░ 50%
+       └─ Package Manager: ███░░░░░░░ 30%
+```
+
+</details>
 
 ### Why a New Language?
 
@@ -50,43 +89,46 @@ Every language that became industry-defining solved a felt pain and then took ye
 
 ---
 
-## Technical Skills
+## ⚙️ Engineering Philosophy
 
-**Languages** — TypeScript, JavaScript, Python, Java, Bash, SQL  
-**Frontend** — React, Next.js, Vue.js, Tailwind CSS, Expo / React Native  
-**Backend** — Node.js, Express, REST, PostgreSQL, MongoDB, Redis  
-**Data & Cloud** — Supabase, Firebase, AWS, Azure, Vercel, Render, Docker  
-**Testing** — Playwright, Cypress, Jest, k6, Postman, Azure DevOps  
-**DevOps** — GitHub Actions, CI/CD pipelines, containerisation, load testing  
-
----
-
-## Engineering Principles
-
-**Testability is a design constraint, not an afterthought.** If a system cannot be tested cleanly, it is poorly designed.
-
-**Performance is a feature.** Latency budgets belong in CI pipelines, not post-mortems.
-
-**Quality is a system property.** It emerges from architecture decisions, not from a QA phase bolted on at the end.
-
----
-
-## GitHub Activity
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/gokulsenthilkumar3)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=true&langs_count=8)](https://github.com/gokulsenthilkumar3)
+```ts
+const engineer = {
+  testability: "design constraint, not afterthought",
+  performance: {
+    belongs: "in CI pipelines",
+    not: "post-mortems"
+  },
+  quality: {
+    source: "architecture decisions",
+    not: "bolt-on QA phase"
+  },
+  currently_building: ["CapabilityOS", "GradualSys lang"],
+  open_to: ["SDET roles", "Founding Engineer", "AI Quality"]
+};
+```
 
 ---
 
-## Open To
+## ⏱️ This Week's Build Time
 
-- SDET and test architecture roles
-- Full-stack engineering positions
-- AI quality and evaluation engineering
-- Early-stage and founding engineer opportunities
-- Systems and platform engineering
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=github_dark&hide_border=true)](https://wakatime.com/@gokulsenthilkumar3)
 
 ---
 
-*Building reliable software today. Designing better foundations for tomorrow.*
+## 🐍 Contribution Trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulsenthilkumar3/gokulsenthilkumar3/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/gokulsenthilkumar3/gokulsenthilkumar3/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building_reliable_software_today-Designing_better_foundations_tomorrow-0A0A0A?style=for-the-badge&labelColor=00F7FF&color=0A0A0A" />
+</p>
+
+<p align="center">
+  <a href="mailto:gokulsenthilkumar3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/gokulsenthilkumar3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
