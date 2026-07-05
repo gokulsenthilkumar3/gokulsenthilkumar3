@@ -167,6 +167,24 @@ Azure DevOps-inspired **project collaboration platform** with ticket and sprint 
 
 ---
 
+<!-- SLIDE 11: RESEARCH LAB -->
+# Research Lab
+## Operating System & Systems Language
+
+Designing two interconnected systems to address foundational computing problems.
+
+**CapabilityOS** (Microkernel OS)
+- Formal threat model and atomic live image updates
+- AI-aware process scheduler 
+
+**GradualSys** (Systems Language)
+- Targeting the gap between Rust-level memory safety and Go-level readability
+- Unified compiler, build system, and package manager
+
+`Systems Design` `Microkernels` `Compilers`
+
+---
+
 <!-- SLIDE 11: SDET FOCUS -->
 # SDET Focus Areas
 
