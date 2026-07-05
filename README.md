@@ -71,7 +71,7 @@ These are the projects that best represent **what I can own end‑to‑end**:
 
 - **[Portfolio](https://github.com/gokulsenthilkumar3/Portfolio)**  
   Next.js + TypeScript portfolio engineered like a product: SSR, performance‑first, and pixel‑perfect responsive design. *(See the [📊 Portfolio Deck](./PROFILE-SLIDES.md) or [📄 Resume PDF](./resume.pdf))*  
-  <img src="https://img.shields.io/badge/Lighthouse-100%25-success?style=flat-square&logo=lighthouse" alt="Lighthouse Score" /> <img src="https://img.shields.io/badge/k6_Load_Tested-Pass-32CD32?style=flat-square&logo=k6&logoColor=white" alt="k6 Tested" />
+  <img src="https://img.shields.io/badge/Lighthouse-100%25_(July_2026)-success?style=flat-square&logo=lighthouse" alt="Lighthouse Score" /> <img src="https://img.shields.io/badge/k6_Load_Tested-Pass-32CD32?style=flat-square&logo=k6&logoColor=white" alt="k6 Tested" />
 
 - **[Yarn‑Management](https://github.com/gokulsenthilkumar3/Yarn-Management)**  
   Production‑grade TypeScript app for textile yarn inventory and order management — built for **real business workflows**.
@@ -137,23 +137,23 @@ If you care about **not being paged at 3am**, we’re already aligned.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/github-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/github-stats-light.svg">
+    <img alt="GitHub Stats" src="./assets/stats/github-stats-dark.svg" width="48%" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false&langs_count=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false&langs_count=10">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/top-langs-light.svg">
+    <img alt="Top Languages" src="./assets/stats/top-langs-dark.svg" width="48%" />
   </picture>
   
   <br/><br/>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false">
-    <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false" width="98%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/wakatime-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/wakatime-light.svg">
+    <img alt="WakaTime Stats" src="./assets/stats/wakatime-dark.svg" width="98%" />
   </picture>
 
   <br/><br/>
@@ -219,9 +219,7 @@ $ gokul --research status
   <br/>
 
   <!-- Footer Banner -->
-  <picture>
-    <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=120&section=footer&animation=twinkling" width="100%" />
-  </picture>
+  <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=120&section=footer&animation=twinkling" width="100%" />
 
   <p align="center">
     <i>"Automating the present, engineering the future."</i>
