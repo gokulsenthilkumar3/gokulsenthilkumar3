@@ -56,7 +56,9 @@ If something ships with my name on it, it is: **measured, monitored, and battleâ
 
   </td>
   <td width="40%" align="center">
-    [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@gokulsenthilkumar3)
+    <a href="https://wakatime.com/@gokulsenthilkumar3">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime" />
+    </a>
   </td>
   </tr>
 </table>
