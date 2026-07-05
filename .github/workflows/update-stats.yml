@@ -1,0 +1,40 @@
+name: Update Static Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets/stats
+
+      - name: Fetch GitHub Stats (Dark)
+        run: curl -s "https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" > assets/stats/github-stats-dark.svg
+
+      - name: Fetch GitHub Stats (Light)
+        run: curl -s "https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" > assets/stats/github-stats-light.svg
+
+      - name: Fetch Top Langs (Dark)
+        run: curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" > assets/stats/top-langs-dark.svg
+
+      - name: Fetch Top Langs (Light)
+        run: curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false&langs_count=10" > assets/stats/top-langs-light.svg
+
+      - name: Fetch WakaTime Stats (Dark)
+        run: curl -s "https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false" > assets/stats/wakatime-dark.svg
+
+      - name: Fetch WakaTime Stats (Light)
+        run: curl -s "https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false" > assets/stats/wakatime-light.svg
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(stats): update static stats SVGs"
+          file_pattern: "assets/stats/*.svg"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
