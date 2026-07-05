@@ -23,6 +23,9 @@
     <a href="mailto:gokulsenthilkumar3@gmail.com">
       <img src="https://img.shields.io/badge/Connect-Direct-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="./PROFILE-SLIDES.md">
+      <img src="https://img.shields.io/badge/📊_Portfolio_Deck-View_Slides-0D1117?style=for-the-badge" alt="View Slides" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=gokulsenthilkumar3&label=Profile+Traffic&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
   </p>
 
@@ -53,7 +56,7 @@ If something ships with my name on it, it is: **measured, monitored, and battle�
 
   </td>
   <td width="40%" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXphMHl3eGR3ZHNyeXo1eHl3eGR3ZHNyeXo1eHl3eGR3ZHNyeXo1eHl3eGR3ZHNyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding" />
+    [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@gokulsenthilkumar3)
   </td>
   </tr>
 </table>
@@ -113,21 +116,28 @@ These are the projects that best represent **what I can own end‑to‑end**:
 
 ---
 
-## ⚙️ Tech Stack & Tooling
+## 🧬 Skill Topology
 
-<div align="center">
-
-| Domain | Tools I Use in Practice |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript` `Python` `Java` `C#` `SQL` `PowerShell` |
-| **Frontend** | `React` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` |
-| **Backend** | `Node.js` `Express.js` `REST APIs` `GraphQL` |
-| **Databases & Cache** | `PostgreSQL` `MongoDB` `MySQL` `Redis` |
-| **DevOps & Cloud** | `Azure DevOps` `GitHub Actions` `AWS` `Docker` `Git` |
-| **Testing & QA** | `k6` `Selenium` `Cypress` `Playwright` `Postman` |
-| **Hardware & Experiments** | `Arduino` `Raspberry Pi` `Embedded C` |
-
-</div>
+```mermaid
+mindmap
+  root((Gokul))
+    Testing
+      Playwright
+      k6 Load
+      AI Regression
+    Frontend
+      Next.js
+      React Native
+      Three.js
+    Backend
+      Node.js
+      PostgreSQL
+      Redis
+    Research
+      Capability OS
+      Systems Lang
+      LLM Evals
+```
 
 ---
 
@@ -141,6 +151,29 @@ I don’t treat testing as a checkbox — it’s part of the **system design**.
 - **Tooling**: from UI automation (Selenium, Cypress) to LLM test harnesses (ProbeAI) and API contract verification.
 
 If you care about **not being paged at 3am**, we’re already aligned.
+
+---
+
+## 🔬 Research
+
+<details>
+<summary>Research Lab — Click to enter</summary>
+
+```text
+$ gokul --research status
+
+[OS]   CapabilityKernel v0.3-alpha
+       ├─ Threat Model: ████████░░ 80%
+       ├─ Microkernel RFC: ██████░░░░ 60%
+       └─ AI Scheduler: ████░░░░░░ 40%
+
+[LANG] GradualSys v0.1-spec
+       ├─ Type System: ██████████ 100%
+       ├─ Compiler Design: █████░░░░░ 50%
+       └─ Package Manager: ███░░░░░░░ 30%
+```
+
+</details>
 
 ---
 
@@ -171,7 +204,10 @@ If you care about **not being paged at 3am**, we’re already aligned.
 
 <div align="center">
   <br/>
-  <img width="100%" src="https://github.com/gokulsenthilkumar3/gokulsenthilkumar3/blob/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulsenthilkumar3/gokulsenthilkumar3/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/gokulsenthilkumar3/gokulsenthilkumar3/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsenthilkumar3&bg_color=1a1b27&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=false" width="100%" />
 </div>
@@ -211,7 +247,5 @@ If you care about **not being paged at 3am**, we’re already aligned.
   [🧭 Explore my work](https://github.com/gokulsenthilkumar3?tab=repositories)
 
   <br/><br/>
-
-  **© 2026 Gokul Senthilkumar • Profile README v3**
 
 </div>
