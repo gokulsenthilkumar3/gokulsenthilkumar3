@@ -5,9 +5,14 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
       - uses: actions/checkout@v4
 
@@ -15,22 +20,46 @@ jobs:
         run: mkdir -p assets/stats
 
       - name: Fetch GitHub Stats (Dark)
-        run: curl -s "https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" > assets/stats/github-stats-dark.svg
+        run: |
+          curl -s --fail --retry 3 --max-time 30 \
+            "https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&icon_color=10B981&title_color=10B981" \
+            -o assets/stats/github-stats-dark.svg
+          grep -q "<svg" assets/stats/github-stats-dark.svg || (echo "ERROR: github-stats-dark is not valid SVG" && exit 1)
 
       - name: Fetch GitHub Stats (Light)
-        run: curl -s "https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" > assets/stats/github-stats-light.svg
+        run: |
+          curl -s --fail --retry 3 --max-time 30 \
+            "https://github-readme-stats.vercel.app/api?username=gokulsenthilkumar3&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&icon_color=059669&title_color=059669" \
+            -o assets/stats/github-stats-light.svg
+          grep -q "<svg" assets/stats/github-stats-light.svg || (echo "ERROR: github-stats-light is not valid SVG" && exit 1)
 
       - name: Fetch Top Langs (Dark)
-        run: curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" > assets/stats/top-langs-dark.svg
+        run: |
+          curl -s --fail --retry 3 --max-time 30 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&title_color=10B981" \
+            -o assets/stats/top-langs-dark.svg
+          grep -q "<svg" assets/stats/top-langs-dark.svg || (echo "ERROR: top-langs-dark is not valid SVG" && exit 1)
 
       - name: Fetch Top Langs (Light)
-        run: curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false&langs_count=10" > assets/stats/top-langs-light.svg
+        run: |
+          curl -s --fail --retry 3 --max-time 30 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false&langs_count=10&title_color=059669" \
+            -o assets/stats/top-langs-light.svg
+          grep -q "<svg" assets/stats/top-langs-light.svg || (echo "ERROR: top-langs-light is not valid SVG" && exit 1)
 
       - name: Fetch WakaTime Stats (Dark)
-        run: curl -s "https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false" > assets/stats/wakatime-dark.svg
+        run: |
+          curl -s --fail --retry 3 --max-time 30 \
+            "https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=tokyonight&hide_border=false&title_color=10B981" \
+            -o assets/stats/wakatime-dark.svg
+          grep -q "<svg" assets/stats/wakatime-dark.svg || (echo "ERROR: wakatime-dark is not valid SVG" && exit 1)
 
       - name: Fetch WakaTime Stats (Light)
-        run: curl -s "https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false" > assets/stats/wakatime-light.svg
+        run: |
+          curl -s --fail --retry 3 --max-time 30 \
+            "https://github-readme-stats.vercel.app/api/wakatime?username=gokulsenthilkumar3&layout=compact&theme=default&hide_border=false&title_color=059669" \
+            -o assets/stats/wakatime-light.svg
+          grep -q "<svg" assets/stats/wakatime-light.svg || (echo "ERROR: wakatime-light is not valid SVG" && exit 1)
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
